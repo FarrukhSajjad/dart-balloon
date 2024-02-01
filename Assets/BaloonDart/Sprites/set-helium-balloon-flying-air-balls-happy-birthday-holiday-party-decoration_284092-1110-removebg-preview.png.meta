@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: 2ebc2fb1639c0044a85a82bb3508fe93
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: set-helium-balloon-flying-air-balls-happy-birthday-holiday-party-decoration_284092-1110-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 250
+        width: 108
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae1fd17236dfb4479ab925b7dfda378
+      internalID: -1218146773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-helium-balloon-flying-air-balls-happy-birthday-holiday-party-decoration_284092-1110-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 247
+        width: 111
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce6dfff5accf5e429034444773362aa
+      internalID: -1256618656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-helium-balloon-flying-air-balls-happy-birthday-holiday-party-decoration_284092-1110-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 252
+        width: 114
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedf53d1636d1f84e970fb95c6342b4b
+      internalID: 1539469642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-helium-balloon-flying-air-balls-happy-birthday-holiday-party-decoration_284092-1110-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 26
+        width: 112
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86a3454225005345b12b53e9d03a3fa
+      internalID: -298186332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-helium-balloon-flying-air-balls-happy-birthday-holiday-party-decoration_284092-1110-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 24
+        width: 108
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeae9640d11bc904ab54cdd093bcd47f
+      internalID: -1035844216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-helium-balloon-flying-air-balls-happy-birthday-holiday-party-decoration_284092-1110-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 30
+        width: 114
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168c8c64bb15db6468f682d7137670b5
+      internalID: 737538633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      set-helium-balloon-flying-air-balls-happy-birthday-holiday-party-decoration_284092-1110-removebg-preview_0: 604450321
+      set-helium-balloon-flying-air-balls-happy-birthday-holiday-party-decoration_284092-1110-removebg-preview_1: -1218146773
+      set-helium-balloon-flying-air-balls-happy-birthday-holiday-party-decoration_284092-1110-removebg-preview_10: 2026085602
+      set-helium-balloon-flying-air-balls-happy-birthday-holiday-party-decoration_284092-1110-removebg-preview_11: 1848703550
+      set-helium-balloon-flying-air-balls-happy-birthday-holiday-party-decoration_284092-1110-removebg-preview_12: -419004673
+      set-helium-balloon-flying-air-balls-happy-birthday-holiday-party-decoration_284092-1110-removebg-preview_13: -298186332
+      set-helium-balloon-flying-air-balls-happy-birthday-holiday-party-decoration_284092-1110-removebg-preview_14: -1035844216
+      set-helium-balloon-flying-air-balls-happy-birthday-holiday-party-decoration_284092-1110-removebg-preview_15: -1594797820
+      set-helium-balloon-flying-air-balls-happy-birthday-holiday-party-decoration_284092-1110-removebg-preview_16: 737538633
+      set-helium-balloon-flying-air-balls-happy-birthday-holiday-party-decoration_284092-1110-removebg-preview_17: 1161744804
+      set-helium-balloon-flying-air-balls-happy-birthday-holiday-party-decoration_284092-1110-removebg-preview_18: 1776702476
+      set-helium-balloon-flying-air-balls-happy-birthday-holiday-party-decoration_284092-1110-removebg-preview_19: -1848146027
+      set-helium-balloon-flying-air-balls-happy-birthday-holiday-party-decoration_284092-1110-removebg-preview_2: 1167193752
+      set-helium-balloon-flying-air-balls-happy-birthday-holiday-party-decoration_284092-1110-removebg-preview_20: -1609696514
+      set-helium-balloon-flying-air-balls-happy-birthday-holiday-party-decoration_284092-1110-removebg-preview_21: -340230917
+      set-helium-balloon-flying-air-balls-happy-birthday-holiday-party-decoration_284092-1110-removebg-preview_3: 1891321458
+      set-helium-balloon-flying-air-balls-happy-birthday-holiday-party-decoration_284092-1110-removebg-preview_4: -444225472
+      set-helium-balloon-flying-air-balls-happy-birthday-holiday-party-decoration_284092-1110-removebg-preview_5: -1256618656
+      set-helium-balloon-flying-air-balls-happy-birthday-holiday-party-decoration_284092-1110-removebg-preview_6: 1714907047
+      set-helium-balloon-flying-air-balls-happy-birthday-holiday-party-decoration_284092-1110-removebg-preview_7: -352917384
+      set-helium-balloon-flying-air-balls-happy-birthday-holiday-party-decoration_284092-1110-removebg-preview_8: 1539469642
+      set-helium-balloon-flying-air-balls-happy-birthday-holiday-party-decoration_284092-1110-removebg-preview_9: 2069417263
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
