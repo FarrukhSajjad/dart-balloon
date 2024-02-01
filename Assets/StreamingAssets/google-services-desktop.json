@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "5506554971",
+    "project_id": "dart-balloon",
+    "storage_bucket": "dart-balloon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5506554971:android:72b2ee03d6ef1a956d737e",
+        "android_client_info": {
+          "package_name": "com.angrypanda.dart.balloon.pop.game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyColzmMQw5gac41ACYOM5TxYBUJpbvv-hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
